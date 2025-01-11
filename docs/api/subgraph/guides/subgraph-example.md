@@ -226,7 +226,7 @@ swaps(orderBy: timestamp, orderDirection: desc, where:
 
 ## Token Data
 
-Input the the token contract address to fetch token data. Any token that exists in at least one Uniswap V3 pool can be queried. The output will aggregate data across all v3 pools that include the token.
+Input the token contract address to fetch token data. Any token that exists in at least one Uniswap V3 pool can be queried. The output will aggregate data across all v3 pools that include the token.
 
 ### General Token Data
 
@@ -280,7 +280,7 @@ query tokens($skip: Int!) {
 
 ### General Position Data
 
-To get data about a specific position, input the NFT tokenId. This queries the collected fees for token0 and token1 and current liquidity for the position with tokenId 3. Reference the full [position schema](https://github.com/Uniswap/v3-subgraph/blob/main/schema.graphql#L192) to see all fields.
+To get data about a specific position, input the NFT tokenId. This queries the collected fees for token0 and token1 and the current liquidity for the position with tokenId 3. Reference the full [position schema](https://github.com/Uniswap/v3-subgraph/blob/main/schema.graphql#L192) to see all fields.
 
 ```
 {
