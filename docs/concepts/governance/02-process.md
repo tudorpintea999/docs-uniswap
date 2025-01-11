@@ -3,7 +3,7 @@ id: process
 title: Process
 ---
 
-This is a living document which represents the current process guidelines for developing and advancing Uniswap Governance Proposals. It was last updated September 2024.
+This is a living document that represents the current process guidelines for developing and advancing Uniswap Governance Proposals. It was last updated September 2024.
 
 ## Tools
 
@@ -34,7 +34,7 @@ _Form_: [Governance Forum](https://gov.uniswap.org/) Post
 
 As a proposer, you should use the RFC phase to introduce the community to your proposal. Your post should detail exactly what you are asking delegates to vote on as well as your rationale for why it is a good idea. You should be prepared to answer questions about your proposal. Willingness to adjust based on community feedback is a hallmark of successful past proposals.
 
-To post a RFC, label your post “RFC - [Your Title Here]”. Prior to moving to Phase 2, give the community at least 7 days to read and comment on the RFC. Please respond to questions in the comments, and take feedback into account in the next iteration of the proposal posted in Phase 2.
+To post an RFC, label your post “RFC - [Your Title Here]”. Prior to moving to Phase 2, give the community at least 7 days to read and comment on the RFC. Please respond to questions in the comments, and take feedback into account in the next iteration of the proposal posted in Phase 2.
 
 ### Phase 2: Temperature Check
 
