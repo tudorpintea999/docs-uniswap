@@ -44,7 +44,7 @@ Once you click this button, you will see a screen that gives you the option to s
 
 ![](./images/Delegate_To_Self.png)
 
-When you click “Self Delegate”, a transaction will pop up in your wallet.  If this doesn’t happen, double check that you have connected your wallet, turn off any popup blockers, and try again. Click "Confirm". When the transaction has processed, you will see that the updated voting power on your profile. Note that delegating your voting power is an event that is captured on chain, so setting and updating your delegation costs gas.
+When you click “Self Delegate”, a transaction will pop up in your wallet.  If this doesn’t happen, double check that you have connected your wallet, turn off any popup blockers, and try again. Click "Confirm". When the transaction has been processed, you will see the updated voting power on your profile. Note that delegating your voting power is an event that is captured onchain, so setting and updating your delegation costs gas.
 
 An important note: much like voter registration in a larger democracy, for UNI to be used in a vote it must be delegated before both the voting period. This means if you want your vote to count, you must delegate it in anticipation of any proposal you may be interested in.
 
