@@ -140,7 +140,7 @@ function permitWitnessTransferFrom(
 **Parameters**
 
 - permit - constructed with the same type as defined above in the single permitTransferFrom case
-- transferDetails constructed with same type as defined above in the single permitTransferFrom case
+- transferDetails constructed with the same type as defined above in the single permitTransferFrom case
 - owner - the signer of the permit message and owner of the tokens
 - witness - arbitrary data passed through that was signed by the user. Is used to reconstruct the signature. Pass through this data if you want the permit signature recovery also to validate other data.
 - witnessTypeString - a string that defines the typed data that the witness was hashed from. It must also include the `TokenPermissions` struct and comply with [EIP-712](https://eips.ethereum.org/EIPS/eip-712) struct ordering. See an example below.
